@@ -1,11 +1,11 @@
 <h1 align="center">Hey there 👋 Pruthviraj Bhosale</h1>
-<h3 align="center">Diploma Student</h3>
+<h3 align="center">🤝About Me</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthviraj-bhosale24&label=Profile%20views&color=0e75b6&style=flat" alt="pruthviraj-bhosale24" /> </p>
 
-- 🔭 I’m currently Learnig **Java and Python Programing**
-
 - 🌱 I’m currently learning **Java Script, Java Programing.**
+
+- 🤝 I’m currently leaning in **Government Polytechnic Awasari Kurd!**
 
 - 💬 Ask me about **Html , CSS ,C, C++**
 
