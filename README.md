@@ -1,13 +1,26 @@
-## Hi there My name is Pruthviraj Bhosale
+<h1 align="center">Hey there 👋 Pruthviraj Bhosale</h1>
+<h3 align="center">Diploma Student</h3>
 
-**Pruthviraj-Bhosale24**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthviraj-bhosale24&label=Profile%20views&color=0e75b6&style=flat" alt="pruthviraj-bhosale24" /> </p>
 
+- 🔭 I’m currently Learnig **Java and Python Programing**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Java Script, Java Programing.**
 
+- 💬 Ask me about **Html , CSS ,C, C++**
 
-- 🌱 I’m currently learning Java and Python Programing.
+- 📫 How to reach me **bpruthviraj248@gmail.com**
 
-- 💬 Ask me about Html , C , C++ , SQL
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/pruthviraj_bhosale_24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pruthviraj_bhosale_24" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pruthviraj-bhosale24&show_icons=true&locale=en&layout=compact" alt="pruthviraj-bhosale24" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pruthviraj-bhosale24&show_icons=true&locale=en" alt="pruthviraj-bhosale24" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pruthviraj-bhosale24&" alt="pruthviraj-bhosale24" /></p>
