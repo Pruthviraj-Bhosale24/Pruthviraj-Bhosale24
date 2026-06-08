@@ -1,5 +1,5 @@
 # 💫 About Me:
-✉️ You can contact me at bpruthviraj248@gmail.com<br>🧠 I'm currently learning In Government Polytechnic Awasari Kurd!<br>💬 Ask me about Html , CSS ,C, C++
+✉️ You can contact me at bpruthviraj248@gmail.com<br>🧠 I'm currently learning MERN STACK!<br>💬 Ask me about Html , CSS ,C, C++,Java
 
 
 ## 🌐 Socials:
