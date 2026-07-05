@@ -1,6 +1,11 @@
 # 💫 About Me:
 ✉️ You can contact me at bpruthviraj248@gmail.com<br>🧠 I'm currently learning MERN STACK!<br>💬 Ask me about Html , CSS ,C, C++,Java
 
+🚀 MERN Stack Intern @ Linkcode Technology
+- Building full-stack web applications using MongoDB, Express.js, React, and Node.js.
+- Developing responsive user interfaces with HTML, CSS, and JavaScript.
+- Learning REST APIs, Git, and modern web development workflows.
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pruthviraj_bhosale_24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bpruthviraj248@gmail.com) 
